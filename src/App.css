@@ -1,0 +1,85 @@
+.topnav .App-logo {
+  display:inline-block;
+  height: 48px;
+}
+
+.topnav{
+  background-color:gray;
+  height:50px;
+}
+
+.searchDiv{
+  padding:10px 5px;
+  display:inline-block;
+}
+
+#searchbox {
+  display:inline-block;
+  font-size: 15px;
+  width:440px;
+  height:30px;
+  position:absolute;
+  left:30%;
+  top:5px;
+}
+
+#Button{
+display:inline-block;
+position:absolute;
+height:36px;
+left: 65%;
+top: 5px;
+}
+
+#icon{
+  height:25px;
+}
+
+.VideoComponent{
+height:400px;
+width:850px;
+}
+
+.VideoContainer{
+  position:absolute;
+  padding:5px;
+  margin:1px;
+}
+
+.ContentContainer{
+  position:absolute;
+  left:67%;
+  padding:5px;
+  margin:1px;
+}
+
+.ContentComponent{
+  /* background-color: indianred; */
+  overflow:scroll;
+  left:67%;
+  width:409px;
+  height:1000px;
+}
+
+.details{
+  padding:10px;
+  width:850px;
+}
+
+.ComponentContentI{
+width:409px;
+height:110px;
+}
+
+.ComponentContentI-Img{
+  display:inline-block;
+  width:125px;
+  height:100px;
+}
+
+.ComponentContentI-Info{
+display:inline-block;
+position:absolute;
+width:275px;
+height:100px;
+}
